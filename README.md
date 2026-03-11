@@ -7,3 +7,7 @@ Această aplicație folosește conceptele OOP prin intermediul limbajului Java �
 ![Imagine semafor](docs/semaphor.png)
 
 ![Imagine cursa](docs/race.png)
+
+![Imagine cursa](docs/car_race.png)
+
+![Imagine finish](docs/car_leaderboard.png)
