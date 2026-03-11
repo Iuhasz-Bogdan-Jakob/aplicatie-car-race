@@ -8,6 +8,6 @@ Această aplicație folosește conceptele OOP prin intermediul limbajului Java �
 
 ![Imagine cursa](docs/race.png)
 
-![Imagine cursa](docs/car_race.png)
+![Imagine cursa](docs/car_race.JPG)
 
-![Imagine finish](docs/car_leaderboard.png)
+![Imagine finish](docs/car_leaderboard.JPG)
